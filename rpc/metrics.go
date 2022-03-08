@@ -29,6 +29,8 @@ const (
 	GetLastCrossLinks        = "GetLastCrossLinks"
 	GetHeaderByNumber        = "GetHeaderByNumber"
 	GetHeaderByNumberRLPHex  = "GetHeaderByNumberRLPHex"
+	GetShardState            = "GetShardState"
+	GetShardStateRLPHex      = "GetShardStateRLPHex"
 	GetProof                 = "GetProof"
 	GetCurrentUtilityMetrics = "GetCurrentUtilityMetrics"
 	GetSuperCommittees       = "GetSuperCommittees"
